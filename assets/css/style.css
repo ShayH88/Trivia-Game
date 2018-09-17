@@ -1,0 +1,45 @@
+.answeroption {
+	border: 1px solid black;
+  border-radius: 5%;
+	width: 40%;
+	color: black;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: orange;
+
+}
+
+#answerblock {
+  text-align: center;
+
+}
+
+#questionblock {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
+
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
+
+
+
+.wrapper {
+  margin: 10px auto;
+  background-color: rgba(214, 18, 18, 0.7);
+  border: 2px solid #d65803;
+  height: 500px;
+  width: 60%;
+  text-align: center;
+}
+
